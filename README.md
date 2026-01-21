@@ -23,6 +23,6 @@ Saved the processed dataset
 Preprocessed dataset
 Notebook
 
-## Conclusion:
+## Conclusion
 This project helps in understanding the basics of feature engineering,
 including encoding and scaling of data.
